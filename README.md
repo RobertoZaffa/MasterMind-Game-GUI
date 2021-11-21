@@ -1,6 +1,6 @@
 # MasterMind-Game--Python-Pygame
 Program to play Mastermind
-To run the game, put all the files in a folder and run mm79.py with Python.
+To run the game, download the zip file, unzip in a folder and run mm79.py with Python.
 Pygame library is required: https://www.pygame.org/download.shtml
 mastermind_engine.py is external module/class that is imported by mm79.py
 mastermind_engine.pyd is mastermind_engine.py compiled with cython. If both files are present, the .pyd will be used. 
