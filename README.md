@@ -17,4 +17,4 @@ Program to play Mastermind with the original vintage board game
 - For some processes the use of mastermin_engine.pyd it is three times faster than mastermind_engine.py 
 - To run the game without Python and/or Pygame library, download it from:
 https://mastermind.altervista.org/
-- **At https://mastermind.altervista.org/this you will find also all Mastermind related stuff include ZX Spectrum, Lego EV3 Mindstorm, Lego Robot Inventor, Arduino version of masterMind.**
+- **At https://mastermind.altervista.org/ you will also find all the MasterMind related stuff as ZX Spectrum, Lego EV3 Mindstorm, Lego Robot Inventor, Arduino version of MasterMind.**
